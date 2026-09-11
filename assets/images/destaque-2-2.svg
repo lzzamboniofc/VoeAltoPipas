@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+<rect width="900" height="900" fill="#f1f1f1"/>
+<path d="M0 900L900 0M-150 700L650 -100" stroke="#d7d7d7" stroke-width="2"/>
+<text x="55" y="760" font-family="Arial,sans-serif" font-size="32" fill="#777">DESTAQUE 2 / FOTO 2</text>
+<text x="55" y="810" font-family="Arial,sans-serif" font-size="18" fill="#999">substitua este arquivo em assets/images</text>
+</svg>

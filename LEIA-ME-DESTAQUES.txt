@@ -1,0 +1,27 @@
+CORREÇÃO DOS DESTAQUES
+
+O erro JavaScript da linha .hero-line foi corrigido.
+
+Agora existem 3 imagens por item em "Destaques Voe Alto".
+
+Item 1:
+destaque-1-1
+destaque-1-2
+destaque-1-3
+
+Item 2:
+destaque-2-1
+destaque-2-2
+destaque-2-3
+
+Item 3:
+destaque-3-1
+destaque-3-2
+destaque-3-3
+
+Você pode usar PNG, JPG, JPEG ou WEBP.
+Se nenhuma foto for colocada, aparece um placeholder indicando exatamente o slot.
+Ao adicionar as fotos, mantenha o nome correspondente.
+
+O banner principal permanece usando:
+assets/images/banner-principal.png

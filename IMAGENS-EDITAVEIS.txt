@@ -1,0 +1,14 @@
+IMAGENS EDITÁVEIS
+
+BANNER PRINCIPAL
+assets/images/banner-principal.png
+Substitua esse arquivo pela fotografia desejada mantendo o mesmo nome.
+
+DESTAQUES
+Cada item possui 3 imagens:
+assets/images/destaque-1-1.png, destaque-1-2.png, destaque-1-3.png
+assets/images/destaque-2-1.png, destaque-2-2.png, destaque-2-3.png
+assets/images/destaque-3-1.png, destaque-3-2.png, destaque-3-3.png
+
+Se a extensão original do projeto for PNG, mantenha os nomes/extensões existentes na pasta.
+Os sliders das categorias já existentes não foram alterados nesta revisão.

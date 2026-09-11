@@ -1,0 +1,32 @@
+SLIDES DAS CATEGORIAS
+
+Cada categoria possui 3 arquivos em assets/images/:
+
+Pipas:
+- pipas-1.jpg
+- pipas-2.jpg
+- pipas-3.jpg
+
+Linhas:
+- linhas-1.jpg
+- linhas-2.jpg
+- linhas-3.jpg
+
+Rabiolas:
+- rabiolas-1.jpg
+- rabiolas-2.jpg
+- rabiolas-3.jpg
+
+Acessórios:
+- acessorios-1.jpg
+- acessorios-2.jpg
+- acessorios-3.jpg
+
+Novidades:
+- novidades-1.jpg
+- novidades-2.jpg
+- novidades-3.jpg
+
+Nesta entrega, as imagens 2 e 3 começam como cópias da imagem atual.
+Basta substituir os arquivos pelas novas fotos, mantendo os mesmos nomes.
+O fade, autoplay, tempos diferentes e pausa no hover já estão implementados.
